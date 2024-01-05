@@ -11,7 +11,7 @@ terraform {
 
 
 resource "azurerm_resource_group" "example" {
-  name     = "example-resources-abhinav"
+  name     = "example-resources-abhinav-test"
   location = "West Europe"
 }
 
